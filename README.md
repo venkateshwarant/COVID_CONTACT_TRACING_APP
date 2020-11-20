@@ -1,1 +1,1 @@
-# COVID_CONTACT_TRACING_APP
+# A Private Covid-19 Contact Tracing App
