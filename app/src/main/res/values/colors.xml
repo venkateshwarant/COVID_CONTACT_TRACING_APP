@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tx_outbound">#F06292</color>
+    <color name="tx_inbound">#81C784</color>
+
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000</color>
+    <color name="Reg_btn_color">#ff751a</color>
+    <color name="colorUnselectedIcon">#535353</color>
+    <color name="colorSelectedIcon">#000</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorGreen">#00FF00</color>
+
+    <color name="colorBlue">#4267B2</color>
+    <color name="colorButtonBlack">#222</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorGrey">#CDCDCD</color>
+
+    <color name="colorGold">#FFD750</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorLightGrey">#D3D3D3</color>
+    <color name="colorMediumGrey">#DDDDDD</color>
+    <color name="text_color">#000000</color>
+    <color name="button_color">#ff751a</color>
+    <color name="hint_color">#ffffff</color>
+    <color name="hint_accent_color">#3d3d29</color>
+    <color name="Back_reg_color">#ffffff</color>
+    <color name="profile_back_color">#000000</color>
+    <color name="shadow_color">#993d00</color>
+    <color name="Orange">#F0420B</color>
+    <color name="light_Orange">#FA7249</color>
+    <color name="light_Black">#362E2B</color>
+    <color name="blue">#1983F5</color>
+    <color name="colorItem">#FA7249</color>
+</resources>

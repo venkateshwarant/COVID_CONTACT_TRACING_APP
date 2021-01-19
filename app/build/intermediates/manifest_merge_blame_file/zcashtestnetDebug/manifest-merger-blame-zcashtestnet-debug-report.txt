@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cash.z.ecc.android.sdk.demoapp.testnet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[cash.z.ecc.android:zcash-android-sdk-testnet:1.2.1-beta02] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/9dd0ba1e163f7f21d5882bd7eda2bf8e/jetified-zcash-android-sdk-testnet-1.2.1-beta02/AndroidManifest.xml:11:5-67
+11-->[cash.z.ecc.android:zcash-android-sdk-testnet:1.2.1-beta02] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/9dd0ba1e163f7f21d5882bd7eda2bf8e/jetified-zcash-android-sdk-testnet-1.2.1-beta02/AndroidManifest.xml:11:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[cash.z.ecc.android:zcash-android-sdk-testnet:1.2.1-beta02] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/9dd0ba1e163f7f21d5882bd7eda2bf8e/jetified-zcash-android-sdk-testnet-1.2.1-beta02/AndroidManifest.xml:12:5-79
+12-->[cash.z.ecc.android:zcash-android-sdk-testnet:1.2.1-beta02] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/9dd0ba1e163f7f21d5882bd7eda2bf8e/jetified-zcash-android-sdk-testnet-1.2.1-beta02/AndroidManifest.xml:12:22-76
+13
+14    <application
+14-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:6:5-24:19
+15        android:name="cash.z.ecc.android.sdk.demoapp.App"
+15-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:7:9-28
+16        android:allowBackup="false"
+16-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:8:9-36
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.5.0-alpha02] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/3635f216ede6743c112a962c1261c8aa/core-1.5.0-alpha02/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:12:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:13:9-40
+25        <activity
+25-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:14:9-23:20
+26            android:name="cash.z.ecc.android.sdk.demoapp.MainActivity"
+26-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:15:13-41
+27            android:label="@string/app_name"
+27-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:16:13-45
+28            android:theme="@style/AppTheme.NoActionBar" >
+28-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:17:13-56
+29            <intent-filter>
+29-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:19:17-69
+30-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:21:17-77
+32-->/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <service
+36-->[androidx.room:room-runtime:2.2.5] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/fa3397795580f0916725f8453fdc180b/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+37            android:name="androidx.room.MultiInstanceInvalidationService"
+37-->[androidx.room:room-runtime:2.2.5] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/fa3397795580f0916725f8453fdc180b/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+38            android:directBootAware="true"
+38-->[androidx.room:room-runtime:2.2.5] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/fa3397795580f0916725f8453fdc180b/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+39            android:exported="false" />
+39-->[androidx.room:room-runtime:2.2.5] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/fa3397795580f0916725f8453fdc180b/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+40
+41        <activity
+41-->[com.google.android.gms:play-services-base:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/4da65517b0c937664dfb337638be5e1f/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+42            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+42-->[com.google.android.gms:play-services-base:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/4da65517b0c937664dfb337638be5e1f/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+43            android:exported="false"
+43-->[com.google.android.gms:play-services-base:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/4da65517b0c937664dfb337638be5e1f/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+44            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+44-->[com.google.android.gms:play-services-base:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/4da65517b0c937664dfb337638be5e1f/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+45
+46        <meta-data
+46-->[com.google.android.gms:play-services-basement:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/ea45abbf41a93b55afa04f747c61fec5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+47            android:name="com.google.android.gms.version"
+47-->[com.google.android.gms:play-services-basement:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/ea45abbf41a93b55afa04f747c61fec5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+48            android:value="@integer/google_play_services_version" />
+48-->[com.google.android.gms:play-services-basement:17.0.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/ea45abbf41a93b55afa04f747c61fec5/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+49
+50        <provider
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/65efe7ef7b166c1c9758a5167e7e7db6/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+51            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/65efe7ef7b166c1c9758a5167e7e7db6/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+52            android:authorities="cash.z.ecc.android.sdk.demoapp.testnet.lifecycle-process"
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/65efe7ef7b166c1c9758a5167e7e7db6/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+53            android:exported="false"
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/65efe7ef7b166c1c9758a5167e7e7db6/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+54            android:multiprocess="true" />
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/venkateshwaran/.gradle/caches/transforms-2/files-2.1/65efe7ef7b166c1c9758a5167e7e7db6/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+55    </application>
+56
+57</manifest>

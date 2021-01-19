@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_address.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_address.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_star.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_item_transaction.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/item_transaction.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_send.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_gallery.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_baseline_check_24.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_home_unselected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_home_unselected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_get_block_range.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_block_range.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_block.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_block.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_latest_height.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_latest_height.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_block_range.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_block_range.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_decrypt.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_decrypt.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_user_selected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_user_selected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-xxxhdpi_ic_bacteria.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-xxxhdpi/ic_bacteria.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_user_unselected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_user_unselected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_search_unselected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_search_unselected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_home_second.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_home_second.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_add_square_button.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_add_square_button.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_list_transactions.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_list_transactions.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_get_latest_height.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_latest_height.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_home_selected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_home_selected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_get_private_key.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_private_key.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-mdpi_ic_bacteria.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-mdpi/ic_bacteria.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_activity_main.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_search_selected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_search_selected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_get_address.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_address.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_baseline_close_24.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_baseline_move_to_inbox_24.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_baseline_move_to_inbox_24.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_memo.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_memo.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_star_black.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_star_black.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/menu_main.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_private_key.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_private_key.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_get_block.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_block.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_tasks.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_tasks.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_floating_action.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_floating_action.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_layout_client.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/layout_client.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_list_utxos.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_list_utxos.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_send.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_send.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_decrypt_range.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_decrypt_range.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-ldpi_ic_bacteria.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-ldpi/ic_bacteria.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_nav_header_main.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-hdpi_ic_bacteria.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-hdpi/ic_bacteria.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_vulnerable.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_vulnerable.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_menu_home.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_menu_home.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_receive.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_receive.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_list.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_list.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_content_main.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_send.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-anydpi-v24_ic_bacteria.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-anydpi-v24/ic_bacteria.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_slideshow.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-xhdpi_ic_bacteria.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-xhdpi/ic_bacteria.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable-xxhdpi_ic_bacteria.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/generated/res/pngs/zcashtestnet/debug/drawable-xxhdpi/ic_bacteria.png"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_fragment_home_old.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_home_old.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/drawable_ic_star_black_selected.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/drawable/ic_star_black_selected.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/layout_app_bar_main.xml.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/res/merged/zcashtestnet/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

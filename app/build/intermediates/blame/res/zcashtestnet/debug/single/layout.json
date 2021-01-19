@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_slideshow.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_get_address.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_address.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_list_transactions.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_list_transactions.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/nav_header_main.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/layout_client.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/layout_client.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_gallery.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_send.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_send.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_get_block_range.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_block_range.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_home_old.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_home_old.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_get_block.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_block.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/item_transaction.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/item_transaction.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_list_utxos.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_list_utxos.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_get_latest_height.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_latest_height.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_home_second.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_home_second.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_get_private_key.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_get_private_key.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_tasks.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_tasks.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/build/intermediates/incremental/mergeZcashtestnetDebugResources/stripped.dir/layout/fragment_vulnerable.xml",
+        "source": "/Users/venkateshwaran/AndroidStudioProjects/demo-app/app/src/main/res/layout/fragment_vulnerable.xml"
+    }
+]

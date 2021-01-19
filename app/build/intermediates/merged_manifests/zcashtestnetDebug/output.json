@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "cash.z.ecc.android.sdk.demoapp.testnet",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "app-zcashtestnet-debug.apk",
+        "fullName": "zcashtestnetDebug",
+        "baseName": "zcashtestnet-debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "cash.z.ecc.android.sdk.demoapp.testnet",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

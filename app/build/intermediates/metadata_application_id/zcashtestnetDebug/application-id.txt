@@ -1,0 +1,1 @@
+cash.z.ecc.android.sdk.demoapp.testnet
